@@ -1,0 +1,31 @@
+:root {
+  --branch: 1px solid #2e45aa;
+}
+
+li {
+  position: relative;
+  padding: 2px 0px;
+}
+
+li::before,
+li::after {
+  content: "";
+  position: absolute;
+  left: -0.75rem;
+}
+
+li::before {
+  border-top: var(--branch);
+  top: 0.75rem;
+  width: 0.5rem;
+}
+
+li::after {
+  border-left: var(--branch);
+  height: 100%;
+  top: 0.25rem;
+}
+
+li:last-child::after {
+  height: 0.5rem;
+}

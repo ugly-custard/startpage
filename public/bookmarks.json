@@ -1,0 +1,33 @@
+{
+  "tree_a": {
+    "cp": {
+      "code forces": "https://codeforces.com/",
+      "codechef": "https://www.codechef.com/",
+      "cses": "https://cses.fi/problemset"
+    },
+    "social": {
+      "reddit": "https://www.reddit.com/r/unixporn",
+      "insta": "https://www.instagram.com/direct/inbox",
+      "telegram": "https://web.telegram.org"
+    }
+  },
+  "tree_c": {
+    "workspace": {
+      "gmail": "https://mail.google.com/",
+      "github": "https://www.github.com/",
+      "linkedin": "https://www.linkedin.com",
+      "todos": "https://calendar.google.com/calendar/u/0/r/tasks"
+    }
+  },
+  "tree_b": {
+    "chill": {
+      "youtube": "https://www.youtube.com",
+      "anilist": "https://anilist.co/home"
+    },
+    "quick links": {
+      "archwiki": "https://archlinux.org",
+      "aur": "https://aur.archlinux.org",
+      "gpt": "https://chatgpt.com"
+    }
+  }
+}
